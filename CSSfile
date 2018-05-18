@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+body {
+  background-color: orange;
+  background-image: url("Imagination.png");
+}
